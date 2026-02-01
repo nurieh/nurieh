@@ -1,7 +1,7 @@
 # 👋 Hola, soy Nuria Font Sánchez
 
 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)  
-🎮 Interesada en el desarrollo de videojuegos, programación y tecnología
+🎮 Interesada en el desarrollo de videojuegos, programación, Big Data y tecnología
 
 ---
 
