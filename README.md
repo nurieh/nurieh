@@ -10,7 +10,6 @@ Soy una persona organizada, responsable y orientada a resultados.
 Estoy empezando en el mundo de la programación y la tecnología, y disfruto aprendiendo cosas nuevas.  
 Me gusta aplicar soluciones creativas y desarrollar ideas desde un enfoque práctico.
 
-Mi objetivo es combinar la programación con el diseño y la creatividad, especialmente en los videojuegos.
 
 ---
 
